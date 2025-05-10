@@ -1,0 +1,23 @@
+{
+  "name": "parkinglot",
+  "version": "1.0.0",
+  "description": "Parking Lot LLD",
+  "main": "ParkingLot.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnshuPrince/ParkingLot.git"
+  },
+  "keywords": [
+    "Parking",
+    "Lot"
+  ],
+  "author": "Anshu Prince",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnshuPrince/ParkingLot/issues"
+  },
+  "homepage": "https://github.com/AnshuPrince/ParkingLot#readme"
+}
